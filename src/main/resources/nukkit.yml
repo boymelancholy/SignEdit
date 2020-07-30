@@ -1,0 +1,7 @@
+name: SignEdit
+main: mcbe.boymelancholy.signedit.SignEdit
+version: 1.0
+api: ["1.0.0"]
+author: boymelancholy
+load: POSTWORLD
+description: "看板編集"
