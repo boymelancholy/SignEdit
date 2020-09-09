@@ -14,7 +14,7 @@ Please add this plugin.
   
 ## Other
 This plugin made that it's based on SignEdit whose author is OtorisanVardo.  
-I have already gt allows to distribute it.  
+I have already got allows to distribute it.  
 So if you wanna get it, please access [**this repository**](https://github.com/boymelancholy/).  
   
 And I made this plugin again with Kotlin.  
